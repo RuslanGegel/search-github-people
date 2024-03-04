@@ -23,7 +23,7 @@ const Home = () => (
       <Flex gap='md' mt='md'>
         <ActionIcon
           component='a'
-          href='https://github.com/gratisvictory'
+          href='https://github.com/RuslanGegel'
           size='lg'
           target='_blank'
           variant='default'
@@ -32,17 +32,17 @@ const Home = () => (
         </ActionIcon>
         <ActionIcon
           component='a'
-          href='https://vk.com/0x0000e3'
+          href='https://vk.com/ruzland21'
           size='lg'
           target='_blank'
           variant='default'
         >
           <VKIcon />
         </ActionIcon>
-        <Tooltip label='@gratisvictory'>
+        <Tooltip label='@ruzlik1917'>
           <ActionIcon
             component='a'
-            href='https://t.me/gratisvictory'
+            href='https://t.me/ruzlik1917'
             size='lg'
             target='_blank'
             variant='default'
